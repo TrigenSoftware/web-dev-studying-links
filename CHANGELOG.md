@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## 2017-01-23
+### Added
+- [Learn CSS Flexbox in 5 Minutes](https://medium.freecodecamp.org/learn-css-flexbox-in-5-minutes-b941f0affc34)
+- [How the minmax() Function Works](https://bitsofco.de/how-the-minmax-function-works/)
+- [Immutable.js](https://facebook.github.io/immutable-js/)
+
 ## 2017-01-22
 ### Added
 - [A list of everything that *could* go in the head of your document](https://github.com/joshbuchea/HEAD)

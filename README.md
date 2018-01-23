@@ -13,8 +13,10 @@ Links for studying web development.
 - [Simple Little Use Case for `vmin`](https://css-tricks.com/simple-little-use-case-vmin/)
 - [The :target Trick](https://bitsofco.de/the-target-trick/)
 - [Полное руководство по Flexbox](https://frontender.info/a-guide-to-flexbox/)
+- [Learn CSS Flexbox in 5 Minutes](https://medium.freecodecamp.org/learn-css-flexbox-in-5-minutes-b941f0affc34)
 - [Flex-grow 9999 Hack](http://joren.co/flex-grow-9999-hack/)
 - [CSS Grid Layout Terminology, Explained](https://bitsofco.de/css-grid-terminology/)
+- [How the minmax() Function Works](https://bitsofco.de/how-the-minmax-function-works/)
 - [Smooth as Butter: Achieving 60 FPS Animations with CSS3](https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108) ([RU](https://habrahabr.ru/post/308006/))
 - [Анимации на GPU: делаем это правильно](https://habrahabr.ru/company/odnoklassniki/blog/313978/)
 - [The math of CSS locks](https://fvsch.com/code/css-locks/) ([RU](https://habrahabr.ru/company/mailru/blog/315196/))
@@ -29,6 +31,7 @@ Links for studying web development.
 - [strman](https://github.com/dleitee/strman)
 - [Moment.js](https://momentjs.com/)
 - [i18n-for-browser](https://github.com/TrigenSoftware/i18n-for-browser)
+- [Immutable.js](https://facebook.github.io/immutable-js/)
 
 ### NodeJS
 - [19 things I learnt reading the NodeJS docs](https://hackernoon.com/19-things-i-learnt-reading-the-nodejs-docs-8a2dcc7f307f) ([RU](https://habrahabr.ru/company/ruvds/blog/318322/))
