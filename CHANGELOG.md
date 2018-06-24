@@ -5,6 +5,24 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## 2018-06-24
+### Added
+- [:focus-within](https://developer.mozilla.org/en-US/docs/Web/CSS/:focus-within)
+- [Get Ready for `display: contents;`](https://css-tricks.com/get-ready-for-display-contents/)
+- [A Guide to CSS Animation](https://codeburst.io/a-guide-to-css-animation-part-1-8777f5beb1f8)
+- [font-display](https://css-tricks.com/almanac/properties/f/font-display/)
+- [One File, Many Options: Using Variable Fonts on the Web](https://css-tricks.com/one-file-many-options-using-variable-fonts-web/)
+- [mix-blend-mode](https://developer.mozilla.org/ru/docs/Web/CSS/mix-blend-mode)
+- [Anna Selezniova - Front-end As I See It](https://www.youtube.com/watch?v=B9SXHMei58c&t=460s&list=FLYtTBKVFeu75sg6t79Cqy9Q&index=2)
+- [Людоедский интерфейс, Вадим Макеев](https://www.youtube.com/watch?v=KAK-WAb9vow&t=12s)
+- [What is “this” in JavaScript?](https://blog.bitsrc.io/what-is-this-in-javascript-3b03480514a7)
+- [ES6 — Let’s divide our phones into Classes](https://medium.com/front-end-hacking/es6-lets-divide-our-phones-into-classes-4574bd0454bf)
+- [ES6 magical stuffs — Spread (…) syntax in depth](https://medium.com/front-end-hacking/es6-magical-stuffs-spread-syntax-in-depth-afdd0118ebd0)
+- [ES6 Cool Stuffs — Destructuring me, plz!](https://medium.com/front-end-hacking/es6-cool-stuffs-destructuring-me-plz-b8f1335d241a)
+- [JavaScript async/await: The Good Part, Pitfalls and How to Use](https://hackernoon.com/javascript-async-await-the-good-part-pitfalls-and-how-to-use-9b759ca21cda)
+- [Learn the React Context API with a Practical Example You Can Bring to Your Apps](https://itnext.io/understanding-the-react-context-api-through-building-a-shared-snackbar-for-in-app-notifications-6c199446b80c)
+- [A beginner’s introduction to Webpack](https://medium.freecodecamp.org/a-beginners-introduction-to-webpack-2620415e46b3)
+
 ## 2017-01-23
 ### Added
 - [Learn CSS Flexbox in 5 Minutes](https://medium.freecodecamp.org/learn-css-flexbox-in-5-minutes-b941f0affc34)
