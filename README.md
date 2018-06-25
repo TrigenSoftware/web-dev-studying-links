@@ -9,6 +9,7 @@ Links for studying web development.
 - [Гид по верстке адаптивных писем](https://habrahabr.ru/company/netologyru/blog/324970/)
 
 ## CSS
+- [BEM For Beginners: Why You Need BEM](https://www.smashingmagazine.com/2018/06/bem-for-beginners/)
 - [9 Underutilized Features in CSS](https://medium.com/@iamjordanlittle/9-underutilized-features-in-css-90ced6ddbfe7)
 - [Simple Little Use Case for `vmin`](https://css-tricks.com/simple-little-use-case-vmin/)
 - [The :target Trick](https://bitsofco.de/the-target-trick/)

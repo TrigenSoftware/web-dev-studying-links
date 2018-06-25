@@ -5,6 +5,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## 2018-06-25
+### Added
+- [BEM For Beginners: Why You Need BEM](https://www.smashingmagazine.com/2018/06/bem-for-beginners/)
+
 ## 2018-06-24
 ### Added
 - [:focus-within](https://developer.mozilla.org/en-US/docs/Web/CSS/:focus-within)
