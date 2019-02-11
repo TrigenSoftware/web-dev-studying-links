@@ -2,6 +2,12 @@
 
 Links for studying web development.
 
+## Feeds
+- [Fresh Frontend Links](https://medium.com/@frontender_ua)
+- [For Web](https://forwebdev.ru/)
+- [bitsofcode](https://bitsofco.de/)
+- [DEV](https://dev.to/)
+
 ## HTML
 - [A list of everything that *could* go in the head of your document](https://github.com/joshbuchea/HEAD)
 - [A11Y Style Guide](http://a11y-style-guide.com/style-guide/)
@@ -34,10 +40,15 @@ Links for studying web development.
 ## JS
 - [What is “this” in JavaScript?](https://blog.bitsrc.io/what-is-this-in-javascript-3b03480514a7)
 - [A Definitive Guide to JavaScript Prototypes](https://hackernoon.com/a-definitive-guide-to-javascript-prototypes-2c263788021e)
+- [Understanding Prototypes and Inheritance in JavaScript](https://www.digitalocean.com/community/tutorials/understanding-prototypes-and-inheritance-in-javascript)
+- [Diving Deeper in JavaScripts Objects](https://blog.bitsrc.io/diving-deeper-in-javascripts-objects-318b1e13dc12) ([RU](https://habr.com/ru/company/ruvds/blog/438794/))
+- [Functional Programming Principles in Javascript](https://dev.to/leandrotk_/functional-programming-principles-in-javascript-26g7) ([RU](https://habr.com/ru/company/ruvds/blog/434112/))
 - [ES6 — Let’s divide our phones into Classes](https://medium.com/front-end-hacking/es6-lets-divide-our-phones-into-classes-4574bd0454bf)
 - [ES6 magical stuffs — Spread (…) syntax in depth](https://medium.com/front-end-hacking/es6-magical-stuffs-spread-syntax-in-depth-afdd0118ebd0)
 - [ES6 Cool Stuffs — Destructuring me, plz!](https://medium.com/front-end-hacking/es6-cool-stuffs-destructuring-me-plz-b8f1335d241a)
 - [JavaScript async/await: The Good Part, Pitfalls and How to Use](https://hackernoon.com/javascript-async-await-the-good-part-pitfalls-and-how-to-use-9b759ca21cda)
+- [A Simple Guide to ES6 Iterators in JavaScript with Examples](https://codeburst.io/a-simple-guide-to-es6-iterators-in-javascript-with-examples-189d052c3d8e)
+- [A Simple Guide to Understanding Javascript (ES6) Generators](https://medium.com/dailyjs/a-simple-guide-to-understanding-javascript-es6-generators-d1c350551950)
 - [Intro to web animations](https://www.gatherdigital.co.uk/community/post/intro-to-web-animations/82)
 - [Customize Media Notifications and Handle Playlists](https://developers.google.com/web/updates/2017/02/media-session)
 - [normalizr](https://github.com/paularmstrong/normalizr)
@@ -65,6 +76,6 @@ Links for studying web development.
 - [react-pdf](https://github.com/diegomura/react-pdf)
 - [Learn the React Context API with a Practical Example You Can Bring to Your Apps](https://itnext.io/understanding-the-react-context-api-through-building-a-shared-snackbar-for-in-app-notifications-6c199446b80c)
 
-# Services
+## Services
 - [BrowserStack - test your website for cross browser compatibility on real browsers. Instant access to multiple desktop and mobile browsers.](https://www.browserstack.com)
 - [Litmus - provides a suite of email design and email marketing tools, helping you build, design, test, and analyze your emails.](https://litmus.com/)

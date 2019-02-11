@@ -5,6 +5,19 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## 2019-02-11
+### Added
+- New section "Feeds":
+    - [Fresh Frontend Links](https://medium.com/@frontender_ua)
+    - [For Web](https://forwebdev.ru/)
+    - [bitsofcode](https://bitsofco.de/)
+    - [DEV](https://dev.to/)
+- [Understanding Prototypes and Inheritance in JavaScript](https://www.digitalocean.com/community/tutorials/understanding-prototypes-and-inheritance-in-javascript)
+- [Diving Deeper in JavaScripts Objects](https://blog.bitsrc.io/diving-deeper-in-javascripts-objects-318b1e13dc12) ([RU](https://habr.com/ru/company/ruvds/blog/438794/))
+- [Functional Programming Principles in Javascript](https://dev.to/leandrotk_/functional-programming-principles-in-javascript-26g7) ([RU](https://habr.com/ru/company/ruvds/blog/434112/))
+- [A Simple Guide to ES6 Iterators in JavaScript with Examples](https://codeburst.io/a-simple-guide-to-es6-iterators-in-javascript-with-examples-189d052c3d8e)
+- [A Simple Guide to Understanding Javascript (ES6) Generators](https://medium.com/dailyjs/a-simple-guide-to-understanding-javascript-es6-generators-d1c350551950)
+
 ## 2018-06-25
 ### Added
 - [BEM For Beginners: Why You Need BEM](https://www.smashingmagazine.com/2018/06/bem-for-beginners/)
