@@ -5,6 +5,18 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## 2019-03-01
+### Added
+- New section "TypeScript":
+    - [Advanced TypeScript Types with Examples](https://levelup.gitconnected.com/advanced-typescript-types-with-examples-1d144e4eda9e)
+    - [Some Lesser Known TypeScript Features](https://medium.com/@eliezer/some-lesser-known-typescript-features-d067e29797d0)
+    - [TypeScript: class vs interface](https://medium.com/front-end-weekly/typescript-class-vs-interface-99c0ae1c2136)
+- [Web-standards](https://twitter.com/webstandards_ru)
+- [Web Platform News](https://twitter.com/WebPlatformNews)
+- [Accessible SVG Icons with Inline Sprites](https://www.24a11y.com/2018/accessible-svg-icons-with-inline-sprites/) ([RU](https://medium.com/web-standards/accessible-svg-icons-4d8d80b52f92))
+- [Using CSS Grid the right way](https://vgpena.github.io/using-css-grid-the-right-way/)
+- [To Grid or to Flex?](https://css-irl.info/to-grid-or-to-flex/)
+
 ## 2019-02-11
 ### Added
 - New section "Feeds":

@@ -5,6 +5,8 @@ Links for studying web development.
 ## Feeds
 - [Fresh Frontend Links](https://medium.com/@frontender_ua)
 - [For Web](https://forwebdev.ru/)
+- [Web-standards](https://twitter.com/webstandards_ru)
+- [Web Platform News](https://twitter.com/WebPlatformNews)
 - [bitsofcode](https://bitsofco.de/)
 - [DEV](https://dev.to/)
 
@@ -13,6 +15,7 @@ Links for studying web development.
 - [A11Y Style Guide](http://a11y-style-guide.com/style-guide/)
 - [Autofill: What web devs should know, but don’t](https://cloudfour.com/thinks/autofill-what-web-devs-should-know-but-dont/) ([RU](https://habrahabr.ru/company/mailru/blog/301840/))
 - [Гид по верстке адаптивных писем](https://habrahabr.ru/company/netologyru/blog/324970/)
+- [Accessible SVG Icons with Inline Sprites](https://www.24a11y.com/2018/accessible-svg-icons-with-inline-sprites/) ([RU](https://medium.com/web-standards/accessible-svg-icons-4d8d80b52f92))
 
 ## CSS
 - [BEM For Beginners: Why You Need BEM](https://www.smashingmagazine.com/2018/06/bem-for-beginners/)
@@ -25,6 +28,8 @@ Links for studying web development.
 - [Flex-grow 9999 Hack](http://joren.co/flex-grow-9999-hack/)
 - [CSS Grid Layout Terminology, Explained](https://bitsofco.de/css-grid-terminology/)
 - [How the minmax() Function Works](https://bitsofco.de/how-the-minmax-function-works/)
+- [Using CSS Grid the right way](https://vgpena.github.io/using-css-grid-the-right-way/)
+- [To Grid or to Flex?](https://css-irl.info/to-grid-or-to-flex/)
 - [Get Ready for `display: contents;`](https://css-tricks.com/get-ready-for-display-contents/)
 - [A Guide to CSS Animation](https://codeburst.io/a-guide-to-css-animation-part-1-8777f5beb1f8)
 - [Smooth as Butter: Achieving 60 FPS Animations with CSS3](https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108) ([RU](https://habrahabr.ru/post/308006/))
@@ -58,6 +63,11 @@ Links for studying web development.
 - [i18n-for-browser](https://github.com/TrigenSoftware/i18n-for-browser)
 - [Immutable.js](https://facebook.github.io/immutable-js/)
 - [A beginner’s introduction to Webpack](https://medium.freecodecamp.org/a-beginners-introduction-to-webpack-2620415e46b3)
+
+### TypeScript
+- [Advanced TypeScript Types with Examples](https://levelup.gitconnected.com/advanced-typescript-types-with-examples-1d144e4eda9e)
+- [Some Lesser Known TypeScript Features](https://medium.com/@eliezer/some-lesser-known-typescript-features-d067e29797d0)
+- [TypeScript: class vs interface](https://medium.com/front-end-weekly/typescript-class-vs-interface-99c0ae1c2136)
 
 ### NodeJS
 - [19 things I learnt reading the NodeJS docs](https://hackernoon.com/19-things-i-learnt-reading-the-nodejs-docs-8a2dcc7f307f) ([RU](https://habrahabr.ru/company/ruvds/blog/318322/))
