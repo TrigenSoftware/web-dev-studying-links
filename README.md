@@ -16,6 +16,7 @@ Links for studying web development.
 - [Autofill: What web devs should know, but don’t](https://cloudfour.com/thinks/autofill-what-web-devs-should-know-but-dont/) ([RU](https://habrahabr.ru/company/mailru/blog/301840/))
 - [Гид по верстке адаптивных писем](https://habrahabr.ru/company/netologyru/blog/324970/)
 - [Accessible SVG Icons with Inline Sprites](https://www.24a11y.com/2018/accessible-svg-icons-with-inline-sprites/) ([RU](https://medium.com/web-standards/accessible-svg-icons-4d8d80b52f92))
+- [Людоедский интерфейс, Вадим Макеев](https://www.youtube.com/watch?v=KAK-WAb9vow&t=12s)
 
 ## CSS
 - [BEM For Beginners: Why You Need BEM](https://www.smashingmagazine.com/2018/06/bem-for-beginners/)
@@ -40,7 +41,6 @@ Links for studying web development.
 - [One File, Many Options: Using Variable Fonts on the Web](https://css-tricks.com/one-file-many-options-using-variable-fonts-web/)
 - [mix-blend-mode](https://developer.mozilla.org/ru/docs/Web/CSS/mix-blend-mode)
 - [Anna Selezniova - Front-end As I See It](https://www.youtube.com/watch?v=B9SXHMei58c&t=460s&list=FLYtTBKVFeu75sg6t79Cqy9Q&index=2)
-- [Людоедский интерфейс, Вадим Макеев](https://www.youtube.com/watch?v=KAK-WAb9vow&t=12s)
 
 ## JS
 - [What is “this” in JavaScript?](https://blog.bitsrc.io/what-is-this-in-javascript-3b03480514a7)
