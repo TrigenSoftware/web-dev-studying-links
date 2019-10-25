@@ -3,8 +3,8 @@
 Links for studying web development.
 
 ## Feeds
-- [Fresh Frontend Links](https://medium.com/@frontender_ua)
-- [For Web](https://forwebdev.ru/)
+- [Fresh Frontend Links](https://medium.com/@frontender_ua) ([Twitter](https://twitter.com/frontender_ua))
+- [For Web](https://forwebdev.ru/) ([Twitter](https://twitter.com/forwebdev))
 - [Web-standards](https://twitter.com/webstandards_ru)
 - [Web Platform News](https://twitter.com/WebPlatformNews)
 - [bitsofcode](https://bitsofco.de/)
