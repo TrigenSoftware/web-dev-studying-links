@@ -40,7 +40,7 @@ Links for studying web development.
 - [font-display](https://css-tricks.com/almanac/properties/f/font-display/)
 - [One File, Many Options: Using Variable Fonts on the Web](https://css-tricks.com/one-file-many-options-using-variable-fonts-web/)
 - [mix-blend-mode](https://developer.mozilla.org/ru/docs/Web/CSS/mix-blend-mode)
-- [Anna Selezniova - Front-end As I See It](https://www.youtube.com/watch?v=B9SXHMei58c&t=460s&list=FLYtTBKVFeu75sg6t79Cqy9Q&index=2)
+- [Anna Selezniova - Front-end As I See It](https://www.youtube.com/watch?v=B9SXHMei58c)
 
 ## JS
 - [What is “this” in JavaScript?](https://blog.bitsrc.io/what-is-this-in-javascript-3b03480514a7)
