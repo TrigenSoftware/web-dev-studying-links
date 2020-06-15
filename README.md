@@ -16,7 +16,7 @@ Links for studying web development.
 - [Autofill: What web devs should know, but don’t](https://cloudfour.com/thinks/autofill-what-web-devs-should-know-but-dont/) ([RU](https://habrahabr.ru/company/mailru/blog/301840/))
 - [Гид по верстке адаптивных писем](https://habrahabr.ru/company/netologyru/blog/324970/)
 - [Accessible SVG Icons with Inline Sprites](https://www.24a11y.com/2018/accessible-svg-icons-with-inline-sprites/) ([RU](https://medium.com/web-standards/accessible-svg-icons-4d8d80b52f92))
-- [Людоедский интерфейс, Вадим Макеев](https://www.youtube.com/watch?v=KAK-WAb9vow&t=12s)
+- [Людоедский интерфейс, Вадим Макеев](https://www.youtube.com/watch?v=KAK-WAb9vow)
 
 ## CSS
 - [BEM For Beginners: Why You Need BEM](https://www.smashingmagazine.com/2018/06/bem-for-beginners/)
